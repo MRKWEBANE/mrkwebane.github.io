@@ -853,5 +853,11 @@ a:focus {
   color: #fbfcfd;
 }
 
+.coontact {
+  background-image: url(../images/NEWHERO.jpg);
+  text-align: center;
+  color: white;
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
